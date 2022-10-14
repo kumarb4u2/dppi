@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dppi/static/css/main.b9b8d454.css",
-    "main.js": "/dppi/static/js/main.924725bd.js",
+    "main.js": "/dppi/static/js/main.393828b1.js",
     "static/media/rocket.png": "/dppi/static/media/rocket.a9468022df85d970e61b.png",
     "index.html": "/dppi/index.html",
     "main.b9b8d454.css.map": "/dppi/static/css/main.b9b8d454.css.map",
-    "main.924725bd.js.map": "/dppi/static/js/main.924725bd.js.map"
+    "main.393828b1.js.map": "/dppi/static/js/main.393828b1.js.map"
   },
   "entrypoints": [
     "static/css/main.b9b8d454.css",
-    "static/js/main.924725bd.js"
+    "static/js/main.393828b1.js"
   ]
 }
